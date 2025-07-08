@@ -48,6 +48,7 @@ Follow these steps to set up and run the API:
     - `ind_config.json`
     - `br_config.json`
     - `europe_config.json`
+    - `bd_config.json`
 
 6. **Run the Flask app**:
     ```bash
